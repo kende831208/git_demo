@@ -2,10 +2,10 @@ package test;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("hello, 这是是测试git！！！");
+		System.out.println("hello, 杩欐槸git娴嬭瘯");
 		
-		System.out.println("hello, 这是是测试git2！！！");
+		System.out.println("hello, 杩欐槸git2娴嬭瘯");
 		
-		System.out.println("hello, 这是是测试git3！！！");
+		System.out.println("hello, 杩欐槸git3娴嬭瘯");
 	}
 }
