@@ -8,5 +8,9 @@ public class HelloWorld {
 		
 		System.out.println("hello, 这是git3测试");
 		System.out.println("hello, 这是git4测试");
+		
+		System.out.println("hello, 这是git5测试");
+		
+		System.out.println("hello, 这是git6测试");
 	}
 }
