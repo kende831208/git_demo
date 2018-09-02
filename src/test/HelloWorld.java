@@ -12,5 +12,9 @@ public class HelloWorld {
 		System.out.println("hello, 这是git5测试");
 		
 		System.out.println("hello, 这是git6测试");
+		
+		System.out.println("hello, 这是git7测试");
+		
+		System.out.println("hello, 这是git8测试");
 	}
 }
